@@ -1,7 +1,7 @@
 # IBM-Project-36345-1660294343
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
-Project Title AI-powered Nutrition Analyzer for Fitness Enthusiasts
+Project Title : AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Domain : Artifical Intelligence
 
@@ -29,28 +29,32 @@ To accomplish this,we have to complete all the activities and tasks listed below
 
 Data Collection:
 
-Collect the dataset or Create the dataset
+1.Collect the dataset or Create the dataset
+
 Image Preprocessing:
 
-Import the ImageDataGenerator library
-Configure ImageDataGenerator class
-Applying ImageDataGenerator functionality to trainset and testset
+1.Import the ImageDataGenerator library
+2.Configure ImageDataGenerator class
+3.Applying ImageDataGenerator functionality to trainset and testset
+
 Model Building
 
-Importing The Model Building Libraries
-Initializing The Model
-Adding CNN Layers
-Adding Dense Layers
-Configure The Learning Process
-Train The Model
-Save The Model
-Test The Model
+1.Importing The Model Building Libraries
+2.Initializing The Model
+3.Adding CNN Layers
+4.Adding Dense Layers
+5.Configure The Learning Process
+6.Train The Model
+7.Save The Model
+8.Test The Model
+
 Train The Model On IBM
 
-Register For IBM Cloud
-Train Model On IBM (used to integrate flask application)
+1.Register For IBM Cloud
+2.Train Model On IBM (used to integrate flask application)
+
 Application Building:
 
-Create HTML Pages
-Build Python Code
-Run The Application
+1.Create HTML Pages
+2.Build Python Code
+3.Run The Application
